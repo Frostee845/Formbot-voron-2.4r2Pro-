@@ -12,7 +12,8 @@ klicky probe
 rapido 2 HF hotend
 ****motors****
 1PC LDO-36STH20-1004AHG(extruder pancake)
-4PC LDO-42STH40-2004MAH(VRN)(x/y)
+2PCS LDO-42STH40-2004MAH
+4PC LDO-42STH40-2004MAH(VRN)(Z)
 
 
 
